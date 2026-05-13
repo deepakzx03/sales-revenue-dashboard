@@ -1,0 +1,13 @@
+﻿OrderID,OrderDate,Product,Category,Region,Quantity,Sales,Profit
+1,2025-01-10,Laptop,Electronics,North,2,120000,18000
+2,2025-01-11,Phone,Electronics,South,4,80000,12000
+3,2025-01-12,Tablet,Electronics,East,3,60000,9000
+4,2025-01-15,Monitor,Electronics,West,2,30000,5000
+5,2025-01-18,Keyboard,Accessories,North,5,15000,3000
+6,2025-01-20,Headphones,Accessories,South,6,18000,3500
+7,2025-02-02,Laptop,Electronics,East,1,65000,10000
+8,2025-02-06,Phone,Electronics,West,3,75000,11000
+9,2025-02-10,Monitor,Electronics,North,2,32000,5200
+10,2025-02-14,Tablet,Electronics,South,2,42000,7000
+11,2025-03-03,Keyboard,Accessories,East,8,24000,4800
+12,2025-03-10,Headphones,Accessories,West,7,21000,4200
