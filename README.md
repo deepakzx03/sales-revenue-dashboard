@@ -25,3 +25,12 @@ This project analyzes sales transactions to derive revenue insights and visualiz
 pip install -r requirements.txt
 cd notebooks
 python sales_analysis.py
+```
+
+## Output Screenshots
+
+### Sales by Region
+![Sales by Region](screenshots/sales_by_region.png)
+
+### Top Products
+![Top Products](screenshots/top_products.png)
